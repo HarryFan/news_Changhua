@@ -1,0 +1,13 @@
+footer a {
+    color: white;
+    transition: all 1s;
+}
+
+footer a:hover {
+    color: yellow;
+
+}
+
+a {
+    transition: all 1s;
+}
